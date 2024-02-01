@@ -7,3 +7,4 @@ Typing Game
 
 - This is practise of Jenkins.
 - Everyone makes 2 commits
+- New commit to Jenkins
