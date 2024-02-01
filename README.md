@@ -6,3 +6,4 @@ Typing Game
 - http://musicianapp-env.eba-fpcenxvf.eu-central-1.elasticbeanstalk.com/
 
 - This is practise of Jenkins.
+- Everyone makes 2 commits
